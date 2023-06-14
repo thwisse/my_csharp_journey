@@ -1,6 +1,6 @@
 ﻿namespace _0_exercises
 {
-    internal class exercise3
+    internal class exercise03
     {
         static void Main3(string[] args)
         {

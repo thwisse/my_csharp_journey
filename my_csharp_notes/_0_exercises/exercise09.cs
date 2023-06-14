@@ -1,5 +1,5 @@
 ﻿namespace _0_exercises;
-class exercise9
+class exercise09
 {
     static void Main9(string[] args)
     {
