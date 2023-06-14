@@ -1,0 +1,15 @@
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_2_typeConversion\bin\Debug\net6.0\_2_typeConversion.exe
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_2_typeConversion\bin\Debug\net6.0\_2_typeConversion.deps.json
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_2_typeConversion\bin\Debug\net6.0\_2_typeConversion.runtimeconfig.json
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_2_typeConversion\bin\Debug\net6.0\_2_typeConversion.dll
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_2_typeConversion\bin\Debug\net6.0\_2_typeConversion.pdb
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_2_typeConversion\obj\Debug\net6.0\_2_typeConversion.csproj.AssemblyReference.cache
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_2_typeConversion\obj\Debug\net6.0\_2_typeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_2_typeConversion\obj\Debug\net6.0\_2_typeConversion.AssemblyInfoInputs.cache
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_2_typeConversion\obj\Debug\net6.0\_2_typeConversion.AssemblyInfo.cs
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_2_typeConversion\obj\Debug\net6.0\_2_typeConversion.csproj.CoreCompileInputs.cache
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_2_typeConversion\obj\Debug\net6.0\_2_typeConversion.dll
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_2_typeConversion\obj\Debug\net6.0\refint\_2_typeConversion.dll
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_2_typeConversion\obj\Debug\net6.0\_2_typeConversion.pdb
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_2_typeConversion\obj\Debug\net6.0\_2_typeConversion.genruntimeconfig.cache
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_2_typeConversion\obj\Debug\net6.0\ref\_2_typeConversion.dll

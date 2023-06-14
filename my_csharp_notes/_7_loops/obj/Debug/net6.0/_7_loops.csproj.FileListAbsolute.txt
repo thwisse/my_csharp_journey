@@ -1,0 +1,15 @@
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_7_loops\bin\Debug\net6.0\_7_loops.exe
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_7_loops\bin\Debug\net6.0\_7_loops.deps.json
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_7_loops\bin\Debug\net6.0\_7_loops.runtimeconfig.json
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_7_loops\bin\Debug\net6.0\_7_loops.dll
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_7_loops\bin\Debug\net6.0\_7_loops.pdb
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_7_loops\obj\Debug\net6.0\_7_loops.csproj.AssemblyReference.cache
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_7_loops\obj\Debug\net6.0\_7_loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_7_loops\obj\Debug\net6.0\_7_loops.AssemblyInfoInputs.cache
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_7_loops\obj\Debug\net6.0\_7_loops.AssemblyInfo.cs
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_7_loops\obj\Debug\net6.0\_7_loops.csproj.CoreCompileInputs.cache
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_7_loops\obj\Debug\net6.0\_7_loops.dll
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_7_loops\obj\Debug\net6.0\refint\_7_loops.dll
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_7_loops\obj\Debug\net6.0\_7_loops.pdb
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_7_loops\obj\Debug\net6.0\_7_loops.genruntimeconfig.cache
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_7_loops\obj\Debug\net6.0\ref\_7_loops.dll

@@ -1,0 +1,15 @@
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_8_auxManeuverCom\bin\Debug\net6.0\_8_auxManeuverCom.exe
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_8_auxManeuverCom\bin\Debug\net6.0\_8_auxManeuverCom.deps.json
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_8_auxManeuverCom\bin\Debug\net6.0\_8_auxManeuverCom.runtimeconfig.json
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_8_auxManeuverCom\bin\Debug\net6.0\_8_auxManeuverCom.dll
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_8_auxManeuverCom\bin\Debug\net6.0\_8_auxManeuverCom.pdb
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_8_auxManeuverCom\obj\Debug\net6.0\_8_auxManeuverCom.csproj.AssemblyReference.cache
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_8_auxManeuverCom\obj\Debug\net6.0\_8_auxManeuverCom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_8_auxManeuverCom\obj\Debug\net6.0\_8_auxManeuverCom.AssemblyInfoInputs.cache
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_8_auxManeuverCom\obj\Debug\net6.0\_8_auxManeuverCom.AssemblyInfo.cs
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_8_auxManeuverCom\obj\Debug\net6.0\_8_auxManeuverCom.csproj.CoreCompileInputs.cache
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_8_auxManeuverCom\obj\Debug\net6.0\_8_auxManeuverCom.dll
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_8_auxManeuverCom\obj\Debug\net6.0\refint\_8_auxManeuverCom.dll
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_8_auxManeuverCom\obj\Debug\net6.0\_8_auxManeuverCom.pdb
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_8_auxManeuverCom\obj\Debug\net6.0\_8_auxManeuverCom.genruntimeconfig.cache
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_8_auxManeuverCom\obj\Debug\net6.0\ref\_8_auxManeuverCom.dll

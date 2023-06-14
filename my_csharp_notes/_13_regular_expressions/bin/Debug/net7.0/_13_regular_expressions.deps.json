@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "_13_regular_expressions/1.0.0": {
+        "runtime": {
+          "_13_regular_expressions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_13_regular_expressions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

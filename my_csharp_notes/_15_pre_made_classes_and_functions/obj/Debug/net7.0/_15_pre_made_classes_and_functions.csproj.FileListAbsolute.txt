@@ -1,0 +1,15 @@
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\_2_gencay_yildiz\_15_pre_made_classes_and_functions\bin\Debug\net7.0\_15_pre_made_classes_and_functions.exe
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\_2_gencay_yildiz\_15_pre_made_classes_and_functions\bin\Debug\net7.0\_15_pre_made_classes_and_functions.deps.json
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\_2_gencay_yildiz\_15_pre_made_classes_and_functions\bin\Debug\net7.0\_15_pre_made_classes_and_functions.runtimeconfig.json
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\_2_gencay_yildiz\_15_pre_made_classes_and_functions\bin\Debug\net7.0\_15_pre_made_classes_and_functions.dll
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\_2_gencay_yildiz\_15_pre_made_classes_and_functions\bin\Debug\net7.0\_15_pre_made_classes_and_functions.pdb
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\_2_gencay_yildiz\_15_pre_made_classes_and_functions\obj\Debug\net7.0\_15_pre_made_classes_and_functions.csproj.AssemblyReference.cache
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\_2_gencay_yildiz\_15_pre_made_classes_and_functions\obj\Debug\net7.0\_15_pre_made_classes_and_functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\_2_gencay_yildiz\_15_pre_made_classes_and_functions\obj\Debug\net7.0\_15_pre_made_classes_and_functions.AssemblyInfoInputs.cache
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\_2_gencay_yildiz\_15_pre_made_classes_and_functions\obj\Debug\net7.0\_15_pre_made_classes_and_functions.AssemblyInfo.cs
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\_2_gencay_yildiz\_15_pre_made_classes_and_functions\obj\Debug\net7.0\_15_pre_made_classes_and_functions.csproj.CoreCompileInputs.cache
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\_2_gencay_yildiz\_15_pre_made_classes_and_functions\obj\Debug\net7.0\_15_pre_made_classes_and_functions.dll
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\_2_gencay_yildiz\_15_pre_made_classes_and_functions\obj\Debug\net7.0\refint\_15_pre_made_classes_and_functions.dll
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\_2_gencay_yildiz\_15_pre_made_classes_and_functions\obj\Debug\net7.0\_15_pre_made_classes_and_functions.pdb
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\_2_gencay_yildiz\_15_pre_made_classes_and_functions\obj\Debug\net7.0\_15_pre_made_classes_and_functions.genruntimeconfig.cache
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\_2_gencay_yildiz\_15_pre_made_classes_and_functions\obj\Debug\net7.0\ref\_15_pre_made_classes_and_functions.dll

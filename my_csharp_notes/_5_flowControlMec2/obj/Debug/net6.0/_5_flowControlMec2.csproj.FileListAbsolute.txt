@@ -1,0 +1,15 @@
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_5_flowControlMec2\bin\Debug\net6.0\_5_flowControlMec2.exe
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_5_flowControlMec2\bin\Debug\net6.0\_5_flowControlMec2.deps.json
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_5_flowControlMec2\bin\Debug\net6.0\_5_flowControlMec2.runtimeconfig.json
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_5_flowControlMec2\bin\Debug\net6.0\_5_flowControlMec2.dll
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_5_flowControlMec2\bin\Debug\net6.0\_5_flowControlMec2.pdb
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_5_flowControlMec2\obj\Debug\net6.0\_5_flowControlMec2.csproj.AssemblyReference.cache
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_5_flowControlMec2\obj\Debug\net6.0\_5_flowControlMec2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_5_flowControlMec2\obj\Debug\net6.0\_5_flowControlMec2.AssemblyInfoInputs.cache
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_5_flowControlMec2\obj\Debug\net6.0\_5_flowControlMec2.AssemblyInfo.cs
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_5_flowControlMec2\obj\Debug\net6.0\_5_flowControlMec2.csproj.CoreCompileInputs.cache
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_5_flowControlMec2\obj\Debug\net6.0\_5_flowControlMec2.dll
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_5_flowControlMec2\obj\Debug\net6.0\refint\_5_flowControlMec2.dll
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_5_flowControlMec2\obj\Debug\net6.0\_5_flowControlMec2.pdb
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_5_flowControlMec2\obj\Debug\net6.0\_5_flowControlMec2.genruntimeconfig.cache
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_5_flowControlMec2\obj\Debug\net6.0\ref\_5_flowControlMec2.dll

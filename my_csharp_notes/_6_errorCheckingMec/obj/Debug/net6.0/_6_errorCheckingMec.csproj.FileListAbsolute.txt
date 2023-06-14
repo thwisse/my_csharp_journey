@@ -1,0 +1,15 @@
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_6_errorCheckingMec\bin\Debug\net6.0\_6_errorCheckingMec.exe
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_6_errorCheckingMec\bin\Debug\net6.0\_6_errorCheckingMec.deps.json
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_6_errorCheckingMec\bin\Debug\net6.0\_6_errorCheckingMec.runtimeconfig.json
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_6_errorCheckingMec\bin\Debug\net6.0\_6_errorCheckingMec.dll
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_6_errorCheckingMec\bin\Debug\net6.0\_6_errorCheckingMec.pdb
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_6_errorCheckingMec\obj\Debug\net6.0\_6_errorCheckingMec.csproj.AssemblyReference.cache
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_6_errorCheckingMec\obj\Debug\net6.0\_6_errorCheckingMec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_6_errorCheckingMec\obj\Debug\net6.0\_6_errorCheckingMec.AssemblyInfoInputs.cache
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_6_errorCheckingMec\obj\Debug\net6.0\_6_errorCheckingMec.AssemblyInfo.cs
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_6_errorCheckingMec\obj\Debug\net6.0\_6_errorCheckingMec.csproj.CoreCompileInputs.cache
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_6_errorCheckingMec\obj\Debug\net6.0\_6_errorCheckingMec.dll
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_6_errorCheckingMec\obj\Debug\net6.0\refint\_6_errorCheckingMec.dll
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_6_errorCheckingMec\obj\Debug\net6.0\_6_errorCheckingMec.pdb
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_6_errorCheckingMec\obj\Debug\net6.0\_6_errorCheckingMec.genruntimeconfig.cache
+C:\Users\thwisse\OneDrive\C# Programming\_1_gencay\_6_errorCheckingMec\obj\Debug\net6.0\ref\_6_errorCheckingMec.dll

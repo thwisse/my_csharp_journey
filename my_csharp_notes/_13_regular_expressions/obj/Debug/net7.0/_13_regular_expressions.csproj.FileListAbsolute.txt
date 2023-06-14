@@ -1,0 +1,15 @@
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\_2_gencay_yildiz\_13_regular_expressions\bin\Debug\net7.0\_13_regular_expressions.exe
+c:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\_2_gencay_yildiz\_13_regular_expressions\bin\Debug\net7.0\_13_regular_expressions.deps.json
+c:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\_2_gencay_yildiz\_13_regular_expressions\bin\Debug\net7.0\_13_regular_expressions.runtimeconfig.json
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\_2_gencay_yildiz\_13_regular_expressions\bin\Debug\net7.0\_13_regular_expressions.dll
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\_2_gencay_yildiz\_13_regular_expressions\bin\Debug\net7.0\_13_regular_expressions.pdb
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\_2_gencay_yildiz\_13_regular_expressions\obj\Debug\net7.0\_13_regular_expressions.csproj.AssemblyReference.cache
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\_2_gencay_yildiz\_13_regular_expressions\obj\Debug\net7.0\_13_regular_expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\_2_gencay_yildiz\_13_regular_expressions\obj\Debug\net7.0\_13_regular_expressions.AssemblyInfoInputs.cache
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\_2_gencay_yildiz\_13_regular_expressions\obj\Debug\net7.0\_13_regular_expressions.AssemblyInfo.cs
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\_2_gencay_yildiz\_13_regular_expressions\obj\Debug\net7.0\_13_regular_expressions.csproj.CoreCompileInputs.cache
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\_2_gencay_yildiz\_13_regular_expressions\obj\Debug\net7.0\_13_regular_expressions.dll
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\_2_gencay_yildiz\_13_regular_expressions\obj\Debug\net7.0\refint\_13_regular_expressions.dll
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\_2_gencay_yildiz\_13_regular_expressions\obj\Debug\net7.0\_13_regular_expressions.pdb
+c:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\_2_gencay_yildiz\_13_regular_expressions\obj\Debug\net7.0\_13_regular_expressions.genruntimeconfig.cache
+c:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\_2_gencay_yildiz\_13_regular_expressions\obj\Debug\net7.0\ref\_13_regular_expressions.dll
