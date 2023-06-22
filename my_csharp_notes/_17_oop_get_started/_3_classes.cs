@@ -1,11 +1,9 @@
-namespace _00_exercises;
-class exercise12
+namespace _17_oop_get_started;
+
+class _3_classes
 {
     static void Main(string[] args)
     {
-        
-        Console.WriteLine("Hello World!");
-
         
 
         char ch = Console.ReadKey().KeyChar;
