@@ -39,6 +39,7 @@ class MyClass
     }
     */
 
+
     // eger basit bir property yaratmak istiyorsak ve kapsulleme yapmayacaksak
     // tum bunlari boyle yazmak yerine alttaki gibi tek satirda halledebiliriz.
     // alttakinde hem field tanimlanir hem de property olusturulur.
