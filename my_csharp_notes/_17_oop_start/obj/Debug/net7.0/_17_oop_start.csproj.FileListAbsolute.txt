@@ -1,0 +1,15 @@
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\my_csharp_journey\my_csharp_notes\_17_oop_start\bin\Debug\net7.0\_17_oop_start.exe
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\my_csharp_journey\my_csharp_notes\_17_oop_start\bin\Debug\net7.0\_17_oop_start.deps.json
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\my_csharp_journey\my_csharp_notes\_17_oop_start\bin\Debug\net7.0\_17_oop_start.runtimeconfig.json
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\my_csharp_journey\my_csharp_notes\_17_oop_start\bin\Debug\net7.0\_17_oop_start.dll
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\my_csharp_journey\my_csharp_notes\_17_oop_start\bin\Debug\net7.0\_17_oop_start.pdb
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\my_csharp_journey\my_csharp_notes\_17_oop_start\obj\Debug\net7.0\_17_oop_start.csproj.AssemblyReference.cache
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\my_csharp_journey\my_csharp_notes\_17_oop_start\obj\Debug\net7.0\_17_oop_start.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\my_csharp_journey\my_csharp_notes\_17_oop_start\obj\Debug\net7.0\_17_oop_start.AssemblyInfoInputs.cache
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\my_csharp_journey\my_csharp_notes\_17_oop_start\obj\Debug\net7.0\_17_oop_start.AssemblyInfo.cs
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\my_csharp_journey\my_csharp_notes\_17_oop_start\obj\Debug\net7.0\_17_oop_start.csproj.CoreCompileInputs.cache
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\my_csharp_journey\my_csharp_notes\_17_oop_start\obj\Debug\net7.0\_17_oop_start.dll
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\my_csharp_journey\my_csharp_notes\_17_oop_start\obj\Debug\net7.0\refint\_17_oop_start.dll
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\my_csharp_journey\my_csharp_notes\_17_oop_start\obj\Debug\net7.0\_17_oop_start.pdb
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\my_csharp_journey\my_csharp_notes\_17_oop_start\obj\Debug\net7.0\_17_oop_start.genruntimeconfig.cache
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\my_csharp_journey\my_csharp_notes\_17_oop_start\obj\Debug\net7.0\ref\_17_oop_start.dll

@@ -2,7 +2,7 @@
 
 class _1_get_started
 {
-    static void Main1(string[] args)
+    static void Main(string[] args)
     {
         Ozi ozi = new Ozi();
 
